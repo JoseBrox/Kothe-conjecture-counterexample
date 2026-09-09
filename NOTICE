@@ -1,0 +1,24 @@
+Köthe conjecture counterexample: human-readable reconstruction
+
+This repository contains a mathematical reconstruction and simplification derived from the formal counterexample archived at:
+https://github.com/tadamcz/koethe
+exact source commit b0527558797325e98a8e57f2197e527210290dc4.
+
+The source repository carries the following attribution notice:
+
+Köthe conjecture: disproof (Krempa's matrix form)
+Copyright 2026 Tom Adamczewski / Epoch AI
+
+The formal statement originated in Formal Conjectures
+(https://github.com/google-deepmind/formal-conjectures,
+FormalConjectures/Wikipedia/Koethe.lean at commit
+9cbe1d3c12998c786b7c2cd99ce28a21b6631f66),
+Copyright 2025 The Formal Conjectures Authors, Apache License 2.0.
+
+The statement was supplied to the AI system by Epoch AI's LeanOpenProblems harness
+(https://github.com/epoch-research/LeanOpenProblems,
+wikipedia-dataset branch, commit
+0ef96d7b12cfa96a93761b4bba1c635f4546c5ca), MIT License.
+The Lean proof was produced by a pre-release GPT-6 Astra model (OpenAI).
+
+See PROVENANCE.md for the relationship between the formal source and this manuscript.
